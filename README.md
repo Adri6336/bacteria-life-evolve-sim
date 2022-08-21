@@ -1,5 +1,5 @@
 # bacteria-life-evolve-sim
-This is a work in progress bacteria simulator. When its complete, I hope for it to be a fun and informative genetic algorithm to watch when bored out of your mind. Watch as life grows from a single organism and evolves over time, or watch a bacterial apocalypse happen.  
+This is a work in progress bacteria simulator. When it's complete, I hope for it to be a fun and informative genetic algorithm to watch when bored out of your mind. Watch as life grows from a single organism and evolves over time, or watch a bacterial apocalypse happen.  
 
 It is my first C++ project in a long time and wasn't originally intended to be shared at this state, so the code may be a bit shite. But hey, so far it works.
 
